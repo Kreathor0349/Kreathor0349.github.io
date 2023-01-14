@@ -149,7 +149,7 @@
   padding-top: 50px;
 }
 @media screen and (max-width: 500px) {
-  .column {
+  .column, .pfp, .topnav {
     width: 50%;
   }
 }
